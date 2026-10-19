@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+logs/
+
+# Local SQL backups
+*.bak
+*.mdf
+*.ldf
+
+# Config secrets
+secrets.config
+appsettings.local.json
